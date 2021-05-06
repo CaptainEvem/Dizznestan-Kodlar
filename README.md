@@ -1,5 +1,6 @@
 # Selam Ben Dizzness
-Arkdaşlar Kodların Çoğunu Ben Yazmadım Topladım Ve Editledim Bana Göre İşinize Çok Yara İyi Kodlamalar
+Arkdaşlar Kodların Çoğunu Ben Yazmadım Topladım Ve Editledim Bana Göre İşinize Çok Yarayacak 
+# İyi Kodlamalar
 
 Nober : https://discord.gg/MdJctxSXdA
 
