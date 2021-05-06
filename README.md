@@ -1,5 +1,6 @@
 # Selam Ben Dizzness
-Arkdaşlar Kodların Çoğunu Ben Yazmadım Topladım Ve Editledim Bana Göre İşinize Çok Yarayacak 
+Kodları Sitenizde/Sunucunuzda İzin Almadan  Paylaşmak Kesinlikle Yasaktır Sonuçlarına Katlanırsınız Lisans Dosyamızda Var!
+Discord: ⚡•Dizzness•⚡#4571
 # İyi Kodlamalar
 
 Nober : https://discord.gg/MdJctxSXdA
