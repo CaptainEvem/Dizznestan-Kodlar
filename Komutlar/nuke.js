@@ -20,4 +20,4 @@ exports.help = {
     name: 'nuke',
   description: 'belirtilen kanalı siler tekrar oluşturur.',
   usage: 'nuke'
-};   //Plasmic Code・FαԃҽAɯαყ ` 🎄 
+};   //Nober Botlist- Dizzness` 🎄 
